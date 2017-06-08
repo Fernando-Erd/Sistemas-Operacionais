@@ -1,0 +1,13 @@
+Sistemas Operacionais - Maziero
+P5/P6 - Preempção e Contabilização
+Setembro/2016
+
+Nome: Fernando Claudecir Erd
+GRR: 20152936
+
+Compilação:
+	make teste1: Compila o código principal com o teste1, gerando o executavel com nome de PingPong.
+	make teste2: Compila o código principal com o teste2, gerando o executavel com nome de PingPong.
+
+	make DEBUGteste1: Compila o código com a versão DEBUG do teste1, gerando o executavel com nome de DEBUGPingPong.
+	make DEBUGteste2: Compila o código com a versão DEBUG do teste2, gerando o executavel com nome de DEBUGPingPong.

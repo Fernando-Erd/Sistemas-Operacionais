@@ -1,0 +1,9 @@
+Sistemas Operacionais - Maziero
+P3/P4 - Dispatcher e Scheduler
+Setembro/2016
+Nome: Fernando Claudecir Erd
+GRR: 20152936
+
+Compilação:
+	make: Compila o código principal, gerando o executavel com nome de PingPong.
+	make DEBUG: Compila o código com a versão DEBUG, gerando o executavel com nome de DEBUGPingPong.

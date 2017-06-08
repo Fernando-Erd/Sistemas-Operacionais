@@ -1,0 +1,10 @@
+Sistemas Operacionais - Maziero
+P12- Fila de Mensagens
+Janeiro/2017
+
+Nome: Fernando Claudecir Erd
+GRR: 20152936
+
+Compilação:
+	make PingPong: Compila o código principal com o teste1, gerando o executavel com nome de PingPong.
+	make DebugPingPong Compila o código com a versão DEBUG do teste2, gerando o executavel com nome de DEBUGPingPong.
